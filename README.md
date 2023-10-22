@@ -1,6 +1,8 @@
 # Trace My
 Protocol to trace physical objects in a decentralized way
 
+## Intro
+
 TraceMy is similar to Find My Network from Apple, but decentralized and with tracking ownership (aka provenance). 
 We want to ensure individuals and businesses can reliably track and verify the ownership of physical objects, providing an effective solution against theft, loss, counterfeits, and unauthorized trading of products.
 
@@ -23,3 +25,8 @@ There are many initiatives for the middle/long term. These two are the most ambi
 <img width="1016" alt="Screenshot 2023-10-16 at 19 24 29" src="https://github.com/stampnetwork/tracemy/assets/20055787/bbd5c687-6d80-469b-bc66-f13eaba6fdaf">
 
 <img width="818" alt="Screenshot 2023-10-16 at 19 23 38" src="https://github.com/stampnetwork/tracemy/assets/20055787/145e5f59-a78e-4b9a-b09c-0a81470109fb">
+
+## Attribution
+Included projects are (Credits goes to them for the hard work):
+- The original [Openhaystack](https://github.com/seemoo-lab/openhaystack)
+- [Headless Haystack](https://github.com/dchristl/headless-haystack)
